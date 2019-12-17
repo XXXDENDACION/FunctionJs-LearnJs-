@@ -1,2 +1,2 @@
 # FunctionJs-LearnJs-
- Ыtudy Js through the creation of functions - utilities
+ Study Js through the creation of functions - utilities
